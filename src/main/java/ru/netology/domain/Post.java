@@ -6,5 +6,6 @@ public class Post {
     private int offset;
     private String query;
     private int postId;
+    private PostLike postLike;
 
 }
